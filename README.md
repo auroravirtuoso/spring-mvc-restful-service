@@ -4,14 +4,13 @@
 
 ## A highly secure RESTful API for Web & Mobile Applications
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/rajsingha/SpringMVC-Mobile-App-Web-Services?include_releases) <br>
-[Version 0.0.1](https://github.com/rajsingha/SpringMVC-Mobile-App-Web-Services/releases)
+[Version 0.0.1](https://github.com/auroravirtuoso/spring-mvc-restful-service/releases)
 
 ## Documentation
 
 To connect the API with your database you need change the application.properties file.<br>
 
-[application.properties file](https://github.com/rajsingha/SpringMVC-Mobile-App-Web-Services/blob/master/src/main/resources/application.properties)
+[application.properties file](https://github.com/auroravirtuoso/spring-mvc-restful-service/blob/master/src/main/resources/application.properties)
 
 ### application.properties file
 
@@ -29,7 +28,7 @@ spring.datasource.url= <your databse url here>
 
 In the UserController.java [POST, GET, UPDATE, DELETE] functions are available.<br>
 
-[UserController.java](https://github.com/rajsingha/SpringMVC-Mobile-App-Web-Services/blob/master/src/main/java/com/webservice/mobile/app/ui/controller/UserController.java)
+[UserController.java](https://github.com/auroravirtuoso/spring-mvc-restful-service/blob/master/src/main/java/com/webservice/mobile/app/ui/controller/UserController.java)
 
 #### Login Function
 
@@ -175,13 +174,13 @@ http://localhost:8080/mobile-app-ws/swagger-ui.html
 ```
 
 
-###### Developed with ❤️ by Raj Singha
+###### Developed with ❤️ by Aurora Virtuoso
 
 ## LICENSE
 
 MIT License
 
-Copyright (c) 2020 Raj Singha
+Copyright (c) 2020 Aurora Virtuoso
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
